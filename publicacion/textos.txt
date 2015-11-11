@@ -1,15 +1,16 @@
 Título (30)
 ===========
-
+CGPHA
 Descripción breve (80)
 ======================
-
+Localización de bienes culturales protegidos en Andalucía.
 Descripción completa (4000)
 ===========================
+App que ofrece la localización de los bienes inscritos en el Catálogo General del Patrimonio Histórico de Andalucía. Se pueden consultar datos relativos a la fecha de protección, categoría jurídica de protección y tipología en el caso de los Bienes de Interés Cultural. La app cuenta además con los límites de bienes inscritos como Conjuntos Históricos, Sitios Históricos y Zonas Patrimoniales.
 
 Etiquetas	
 ===========
-
+Junta de Andalucía, Consejería de Cultura, Patrimonio histórico, Patrimonio cultural
 Notas de versión
 =================
 Versión inicial
@@ -18,6 +19,7 @@ Versión inicial
 
 Sitio web
 =========
+www.juntadeandalucia.es/cultura
 
 Correo electrónico
 ==================
